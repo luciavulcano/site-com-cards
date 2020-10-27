@@ -1,0 +1,6 @@
+- O objetivo é desenvolver uma simples Landing page (uma página HTML) como o da figura social-media.jpg. Para isso, você usará o arquivo social-media.psd que contém os elementos da página.
+- Como é uma página simples, não existe necessidade de usar muitos recursos (a não ser que você queira). Também não é necessário back-end, wordpress, banco de dados, etc. Programar usando HTML, CSS e JS atende.
+- É importante deixar os conteúdos como textos, sempre que possível. Por exemplo, os títulos, o "2020", lorem ipsum.
+- É necessário ser responsivo.
+- Ao final, me avise por email ou pelo skype. Você pode compartilhar o projeto em algum servidor, no git, me mostrar com um compartilhamento de tela, etc. É nesse momento que ele será avaliado.
+- Não existe prazo de entrega. Porém, o quanto antes, melhor.

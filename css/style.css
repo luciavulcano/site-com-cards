@@ -1,0 +1,209 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background: linear-gradient(170deg, #004A89 40%, #FEBE42 40%);
+  background-position: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.titulo {
+  margin-top: 2rem;
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+.sub-titulo {
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+.card-um {
+  margin: 2rem auto;
+  width: 17rem;
+  height: 17rem;
+  background-image: url("https://i.imgur.com/iCK8oYs.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 5px 10px black;
+}
+
+.card-dois {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 2rem auto;
+  width: 15rem;
+  height: 15rem;
+  background-image: url("https://i.imgur.com/PupkwB2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 5px 10px black;
+}
+
+.card-tres {
+  display: flex;
+  margin: 2rem auto;
+  width: 15rem;
+  height: 15rem;
+  background-image: url("https://i.imgur.com/q3w84RS.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 5px 10px black;
+}
+
+.card-quatro {
+  display: flex;
+  margin: 2rem auto;
+  width: 15rem;
+  height: 15rem;
+  background-image: url("https://i.imgur.com/gBpDSOD.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 5px 10px black;
+}
+
+.card-cinco {
+  display: flex;
+  margin: 2rem auto;
+  width: 15rem;
+  height: 15rem;
+  background-image: url("https://i.imgur.com/JUxc8WI.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 5px 10px black;
+}
+
+.card-um-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-um-titulo {
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  align-self: center;
+}
+
+.card-um-sub-titulo {
+  color: #FEBE42;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  align-self: center;
+}
+
+.card-um-texto-titulo {
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  align-self: center;
+  margin: .5rem;
+}
+
+.card-um-paragrafo {
+  color: white;
+  font-size: .8rem;
+  margin: .5rem;
+  width: 7.6rem;
+}
+
+.card-dois-paragrafo {
+  color: white;
+  font-size: .6rem;
+  margin: .5rem .3rem .8rem 7.5rem;
+}
+
+.card-dois-titulo {
+  color: #004A89;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 0 .5rem;
+}
+
+.card-dois-sub-titulo {
+  color: #FEBE42;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 0 .5rem;
+}
+
+
+.card-tres-titulo,
+.card-cinco-titulo {
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 0 1rem;
+}
+
+.card-tres-sub-titulo,
+.card-cinco-sub-titulo {
+  color: #FEBE42;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 0 1rem;
+}
+
+.card-tres-paragrafo,
+.card-cinco-paragrafo {
+  color: white;
+  font-size: .6rem;
+}
+
+.card-tres-div,
+.card-tres-texto,
+.card-cinco-div,
+.card-cinco-texto {
+  margin-top: 11em;
+}
+
+.card-quatro-titulo {
+  color: #004A89;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin: 0 1.8rem 0 .2rem;
+}
+
+.card-quatro-sub-titulo {
+  color: white;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin: 0 1.8rem 0 .2rem;
+}
+
+.card-quatro-paragrafo {
+  color: white;
+  font-size: .6rem;
+}
+
+.card-quatro-texto {
+  margin-top: 11.7em;
+}
+
+.card-quatro-div {
+  margin-top: 9.9em;
+}
